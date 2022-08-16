@@ -1,1 +1,1 @@
-# c-programming-linux-specialization
+# C Programming Linux Specialization
